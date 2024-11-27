@@ -190,7 +190,7 @@ GEM
     puma (3.12.0)
     quiet_assets (1.1.0)
       railties (>= 3.1, < 5.0)
-    rack (1.6.11)
+    rack (1.6.13)
     rack-cors (1.0.2)
     rack-livereload (0.3.17)
       rack
@@ -376,7 +376,7 @@ DEPENDENCIES
   pry-byebug
   puma
   quiet_assets
-  rack (~> 1.6.11)
+  rack (~> 1.6.13)
   rack-cors
   rack-livereload
   rails (= 4.2.11)
