@@ -67,7 +67,7 @@ end
 
 gem 'newrelic_rpm'
 
-gem 'kaminari', '~> 1.1.1'
+gem 'kaminari', '~> 1.2.1'
 
 # Enforce dependency versions to avoid vulnerabilities
 gem 'loofah', '~> 2.2.3'
